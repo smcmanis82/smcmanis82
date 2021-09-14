@@ -7,12 +7,12 @@
 **Lanuages and Tools:**
 <br>
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" width="75" height="75">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" width="80" height="80">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="80" height="80">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ErlUaNm2zSUY_ixn84Eo9qW9Q40NB2Y9m2H-mK4amship0dh9yt9V4MrEzmcdezIjC0&usqp=CAU" width="80" height="80">
-<img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png" width="80" height="80">
-<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="80" height="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="50" height="50">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ErlUaNm2zSUY_ixn84Eo9qW9Q40NB2Y9m2H-mK4amship0dh9yt9V4MrEzmcdezIjC0&usqp=CAU" width="50" height="50">
+<img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png" width="50" height="50">
+<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="50" height="50">
 
 
 
