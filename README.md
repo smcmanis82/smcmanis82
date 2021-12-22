@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sharon
-- 💻 I am a recent gradutate of a web development bootcamp at Fullstack Academy and Louisiana State University 🐯
-- 👩‍💻 I’m currently learning Typescript and Angular 
+<!-- - 💻 I am a recent gradutate of a web development bootcamp at Fullstack Academy and Louisiana State University 🐯
+- 👩‍💻 I’m currently learning Typescript and Angular  -->
 - 📫 How to reach me <a href="mailto:sharon.mcmanis@gmail.com">Email </a> | [LinkedIn](https://www.linkedin.com/in/sharon-mcmanis/)
 
 
